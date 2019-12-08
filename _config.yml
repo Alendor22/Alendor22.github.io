@@ -1,11 +1,11 @@
 # Site settings
 author: Adeja Lendor
-title: 
+title: Adeja Lendor's Software Engineering Blog
 header-img: img/home-bg.png
 email: alendor6@gmail.com
 copyright_name: Adeja Lendor
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why I decided to learn Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Alendor22
