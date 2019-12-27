@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: alendor6@gmail.com
 copyright_name: Adeja Lendor
 description: > # this means to ignore newlines until "baseurl:"
-  Why I decided to learn Software Engineering
+  A journey into the beginnings of a Web Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Alendor22
