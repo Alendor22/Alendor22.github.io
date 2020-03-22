@@ -31,13 +31,14 @@ delete '/users/:id' do
       end
     end
 ```
-		
+
 after i figured out find_user I turned it into a help method and put it in the application controller, here is what it looks like:
+		
 
 ```
 def find_user
       @user = User.find_by(id: params[:id])
     end
 ```
-		
-		The project became easier once that was sorted out and I could accually start enjoying the process.  There were alot of moving parts to juggle with this project and that is part of the developement process from what I am learning, If I had to do this project again it will be easier I'm sure, but for now it was a painful learning process and I'll leave it at that.  Till the next time, same place, same blog, keep coding, and stay motivated.
+
+     The project became easier once that was sorted out and I could accually start enjoying the process.  There were alot of moving parts to juggle with this project and that is part of the developement process from what I am learning, If I had to do this project again it will be easier I'm sure, but for now it was a painful learning process and I'll leave it at that.  Till the next time, same place, same blog, keep coding, and stay motivated.
