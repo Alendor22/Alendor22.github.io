@@ -5,6 +5,7 @@ date:       2020-02-23 22:48:18 -0500
 permalink:  car_collector_app_-_mod2_sinatra_project
 ---
 
+
      This project was really challenging, moreso than the mod1 project, but who am I kidding they were equally difficult in their out right for different reasons.  Lets dive in shall we, some of what I found to be most challenging was passing data between the view and the controller.  Creating the session_controller was the easiest part in my opinion.  Going between the views and the controllers while maintaining that the current user was the same as the @user was something that got me tripped up for a while, while it seems trivial doing that proved to be a fomidable task.  While see the creation of the website was intresting and fun, the process was grueling.  This is however also the process of learning and that in of itself can be painful.  If you're not making mistakes you're not learn, and on this project the mistakes came early and often.  The issues I had the most problems with were:
 
 ```
