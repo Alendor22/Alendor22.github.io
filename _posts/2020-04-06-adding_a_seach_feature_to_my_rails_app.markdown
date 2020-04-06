@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Adding a seach feature to my Rails App."
-date:       2020-04-06 17:17:22 +0000
+date:       2020-04-06 13:17:23 -0400
 permalink:  adding_a_seach_feature_to_my_rails_app
 ---
 
